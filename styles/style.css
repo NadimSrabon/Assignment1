@@ -1,0 +1,250 @@
+.begin {
+    /* background-image: url(../resources/Banner\ Image.png); */
+    background: linear-gradient(80deg, #070211 0%, rgba(7, 2, 17, 0) 100%), url("../resources/Banner\ Image.png");
+    width: 1320px;
+    height: 600px;
+    justify-content: center;
+    margin: 60px auto;
+    border-radius: 16px;
+
+
+
+}
+
+.intro {
+    text-align: center;
+    padding: 90px;
+
+}
+
+.second h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+
+
+
+}
+
+.first {
+
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.describe {
+    text-align: center;
+    margin-top: 90px;
+}
+
+.describe h2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.describe p {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.describe h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.new-year {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0
+}
+
+.y2024 {
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../resources/Vectorrr.png");
+    width: 1220px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 150px auto;
+
+}
+
+
+
+.part-3 h2 {
+    color: #FFF;
+    width: 642px;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    padding: 80px 80px;
+}
+
+.para {
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.part-3 {
+    display: flex;
+}
+
+.invite {
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-right: 530px;
+
+
+}
+
+.pdt {
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    text-align: center;
+    margin: 150px auto;
+    padding: 200px auto;
+}
+
+.thikKor {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    padding-top: 110px;
+
+}
+
+.btn {
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.polti {
+    width: 1600px;
+    height: 7335px;
+}
+
+.nbo h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.nbo h2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.nbo p {
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.jinishpati {
+    display: flex;
+}
+
+.pic {
+    margin-left: 190px;
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+}
+
+.hny2024 {
+    margin-left: 300px;
+}
+
+.hny2024 h2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.hny2024 p{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
